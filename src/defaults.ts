@@ -74,7 +74,7 @@ export default {
 
 	calEventBackgroundColor: 'rgba(86, 100, 86, .35)',
 
-	calActiveEventBackgroundColor: 'rgba(86, 128, 86, .35)',
+	calActiveEventBackgroundColor: 'var(--calActiveEventBackgroundColor)',
 
 	calEventTime: false, // show calendar event summary time
 
